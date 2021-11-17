@@ -4,13 +4,17 @@
 
 [Introducción a la Computación Cuántica - Parte II](https://www.techedgegroup.com/es/blog/introduccion-computacion-cuantica-ii)
 
+
+## Ejemplos:
+Source: https://www.techedgegroup.com/es/blog/introduccion-programacion-computacion-cuantica
+
 Ejemplo 1: “Hello World” en un simulador con Qiskit
 
 Ejemplo 2: “Hello World” en un dispositivo cuántico
 
-https://www.techedgegroup.com/es/blog/introduccion-programacion-computacion-cuantica
 
-Referencias:
+
+## Referencias:
 
 IBM Quantum Experience: quantum-computing.ibm.com
 
